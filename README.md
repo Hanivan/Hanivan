@@ -1,4 +1,4 @@
-### Hi there 👋
+### Teu Nyaho Rek Ngetik Naon...
 
 <!--
 **Hanivan/Hanivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
