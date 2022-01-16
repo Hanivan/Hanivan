@@ -1,4 +1,10 @@
-### Teu Nyaho Rek Ngetik Naon...
+### To-do List
+- Bikin restAPI Web [otakudesu](otakudeu.info). --Ispirasi([ Kaede-No-Ki/otakudesu-rest-api](https://github.com/Kaede-No-Ki/otakudesu-rest-api))--
+  - node-fetch & cheerio (Web Scrapper). [Tutorial](https://www.youtube.com/watch?v=z6jwIkkc7ro)
+  - express
+  - axios
+  - cors
+- Sekalian FrontEnd nya Mungkin..
 
 <!--
 **Hanivan/Hanivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
