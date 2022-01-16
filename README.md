@@ -1,10 +1,10 @@
 ### To-do List
-- Bikin restAPI Web [otakudesu](otakudeu.info). --Ispirasi([ Kaede-No-Ki/otakudesu-rest-api](https://github.com/Kaede-No-Ki/otakudesu-rest-api))--
+- Bikin restAPI Web [otakudesu](otakudeu.info). --Ispirasi([ Kaede-No-Ki/otakudesu-rest-api](https://github.com/Kaede-No-Ki/otakudesu-rest-api))-- (OTW)
   - node-fetch & cheerio (Web Scrapper). [Tutorial](https://www.youtube.com/watch?v=z6jwIkkc7ro)
   - express
   - axios
   - cors
-- Sekalian FrontEnd nya Mungkin..
+- Sekalian FrontEnd nya Mungkin.. (Gimana Nanti. Belajar TailwindCSS Dulu)
 
 <!--
 **Hanivan/Hanivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
