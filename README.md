@@ -3,6 +3,7 @@
   - node-fetch & cheerio (Web Scrapper). [Tutorial](https://www.youtube.com/watch?v=z6jwIkkc7ro)
   - express
   - axios
+  - dotenv
   - cors
 - Sekalian FrontEnd nya Mungkin.. (Gimana Nanti. Belajar TailwindCSS Dulu)
 
