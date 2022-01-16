@@ -1,5 +1,5 @@
 ### To-do List
-- Bikin restAPI Web [otakudesu](otakudeu.info). --Ispirasi([ Kaede-No-Ki/otakudesu-rest-api](https://github.com/Kaede-No-Ki/otakudesu-rest-api))-- (OTW)
+- Bikin restAPI Web [otakudesu](otakudeu.info). --Ispirasi([ Kaede-No-Ki/otakudesu-rest-api](https://github.com/Kaede-No-Ki/otakudesu-rest-api))-- (OTW | Sun, 16Jan21 16:--)
   - node-fetch & cheerio (Web Scrapper). [Tutorial](https://www.youtube.com/watch?v=z6jwIkkc7ro)
   - express
   - axios
