@@ -1,11 +1,6 @@
 ### To-do List
-- Bikin restAPI Web [Samehadaku](https://194.163.183.129). --Ispirasi([ Kaede-No-Ki/otakudesu-rest-api](https://github.com/Kaede-No-Ki/otakudesu-rest-api))-- (OTW | Sun, 16Jan21 16:--)
-  - node-fetch & cheerio (Web Scrapper). [Tutorial](https://www.youtube.com/watch?v=z6jwIkkc7ro)
-  - express
-  - axios
-  - dotenv
-  - cors
-- Sekalian FrontEnd nya Mungkin.. (Gimana Nanti. Belajar TailwindCSS Dulu)
+- Bikin CLI App Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku)
+- Bikin FrontEnd Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku) (Belajar TailwindCSS Dulu)
 
 <!--
 **Hanivan/Hanivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
