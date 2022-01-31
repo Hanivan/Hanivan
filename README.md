@@ -1,6 +1,6 @@
 ### To-do List
 - Bikin CLI App Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku)<br>
- Tools:
+ Tools (Python):
   - rich
   - requests
   - enquiries
