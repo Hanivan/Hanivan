@@ -5,6 +5,7 @@
   - requests
   - enquiries
   - python-dotenv
+  - zippyshare-downloader
 - Bikin FrontEnd Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku) (Belajar TailwindCSS Dulu)
 
 <!--
