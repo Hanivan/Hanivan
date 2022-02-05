@@ -1,11 +1,5 @@
 ### To-do List
-- Bikin CLI App Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku)<br>
- Tools (Python):
-  - rich
-  - requests
-  - enquiries
-  - python-dotenv
-  - zippyshare-downloader
+- Fix Bugs [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku)
 - Bikin FrontEnd Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku) (Belajar TailwindCSS Dulu)
 
 <!--
