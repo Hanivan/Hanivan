@@ -1,5 +1,4 @@
 ### To-do List
-- Fix Bugs [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku)
 - Bikin FrontEnd Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku) (Belajar TailwindCSS Dulu)
 
 <!--
