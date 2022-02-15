@@ -1,5 +1,10 @@
 ### To-do List
-- Bikin FrontEnd Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku) (Belajar TailwindCSS Dulu)
+- Bikin FrontEnd Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku)
+  - next
+  - tailwindcss
+  - react-player
+  - axios
+ 
 
 <!--
 **Hanivan/Hanivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
