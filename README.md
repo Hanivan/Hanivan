@@ -2,6 +2,7 @@
 - Bikin FrontEnd Buat [restAPI-Samehadaku](https://github.com/Hanivan/restAPI-Samehadaku)
   - next
   - tailwindcss
+  - tailwind-scrollbar
   - react-player
   - axios
  
