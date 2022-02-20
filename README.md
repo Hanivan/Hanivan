@@ -4,7 +4,6 @@
   - tailwindcss
   - tailwind-scrollbar
   - react-player
-  - axios
  
 
 <!--
