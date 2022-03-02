@@ -1,4 +1,6 @@
-### Sekarang Apa?
+### To-do
+- Currently learning typescript
+- Learning Laravel
  
 
 <!--
