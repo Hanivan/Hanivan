@@ -1,6 +1,7 @@
 ### To-do
 - Currently learning typescript
 - Learning Laravel
+- Rice new look for desktop
  
 
 <!--
