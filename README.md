@@ -1,5 +1,5 @@
 ### To-do
-- Currently learning typescript
+- Currently learning NestJS & RabbitMQ (Microservices)
 - Rice new look for desktop
 - Learning Laravel
  
