@@ -1,6 +1,5 @@
 ### To-do
 - Currently learning NestJS & RabbitMQ (Microservices)
-- Rice new look for desktop
 - Learning Laravel
  
 
