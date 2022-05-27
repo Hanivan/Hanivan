@@ -2,6 +2,7 @@
 - Currently learning NestJS & RabbitMQ (Microservices)
 - RxJS
 - Learning Laravel
+- Here we go again with GoLang
 - AdonisJS?
  
 
