@@ -1,5 +1,4 @@
 ### To-do
-- Currently learning NestJS & RabbitMQ (Microservices)
 - RxJS
 - Learning Laravel
 - Here we Go again
