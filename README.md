@@ -1,9 +1,9 @@
 ### To-do
 - RxJS
+- NestJS Serverless
 - Learning Laravel
 - Here we Go again
 - AdonisJS?
-- NestJS Serverless
  
 
 <!--
