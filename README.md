@@ -1,9 +1,10 @@
 ### To-do
-- RxJS
+- Sleep
+<!-- - RxJS
 - NestJS Serverless
 - Learning Laravel
 - Here we Go again
-- AdonisJS?
+- AdonisJS? -->
  
 
 <!--
